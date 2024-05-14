@@ -1,0 +1,10 @@
+ tkinter 
+  
+ threading 
+ cv2
+ imutils
+ scipy.spatial 
+ 
+ 
+ dlib
+ pygame 
